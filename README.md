@@ -9,7 +9,7 @@ In this showcase you'll see the following in action:
 * The simplest possible @Controller
 * Mapping Requests
 * Obtaining Request Data
-* Generating Responses
+* Generating Responses on
 * Message Converters
 * Rendering Views
 * Type Conversion
